@@ -76,9 +76,8 @@
 		</plugins>
 	</reporting>
 	<scm>
-		<url>https://github.com/hamedvama/tpmaven</url>
-		<connection>scm:git:git://github.com/hamedvama/tpmaven.git</connection>
-		<developerConnection>scm:git:git@github.com/hamedvama/tpmaven.git</developerConnection>
+		<url>https://github.com/hamedvama/maventp</url>
+		<connection>scm:git:git://github.com/hamedvama/maventp.git</connection>
 	</scm>
 
 </project>
